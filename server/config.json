@@ -1,0 +1,8 @@
+{
+  "id": "starter",
+  "site": {
+    "port": 5000,
+    "name": "Angular Koa Starter",
+    "secret": "awesome-angular-koa-starter-kit"
+  }
+}

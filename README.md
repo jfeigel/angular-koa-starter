@@ -1,4 +1,8 @@
-# Starter
+# :wrench: Angular Koa Starter
+
+Slightly opionated starter kit using Angular and Koa
+
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
